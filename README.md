@@ -1,7 +1,7 @@
 # Calculator
 
 An online calculator with basic arithmetic operations built using HTML5, CSS3 and JS ES6 features.
-Here is the website ➞ <a href="">click me</a>
+Here is the website ➞ <a href="https://jarifahmad.github.io/Calculator/">click me</a>
 
 ## Features
 
