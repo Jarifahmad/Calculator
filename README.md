@@ -11,4 +11,4 @@ Here is the website ➞ <a href="">click me</a>
 * Comes with options to __clear/delete__ a single input (backspace) OR __clear__ the whole display.
 
 ## Copyright
-©Jarif Ahmad
+©Jarif Ahmad 2021
