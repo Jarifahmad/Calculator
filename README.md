@@ -1,6 +1,6 @@
 # Calculator
 
-An online calculator with basic arithmetic operations built using HTML5, CSS3 and JS ES6 features.
+An online calculator with basic arithmetic operations built using HTML5, CSS3 and JS ES6 features. <br>
 Here is the website ➞ <a href="https://jarifahmad.github.io/Calculator/">click me</a>
 
 ## Features
@@ -11,4 +11,4 @@ Here is the website ➞ <a href="https://jarifahmad.github.io/Calculator/">click
 * Comes with options to __clear/delete__ a single input (backspace) OR __clear__ the whole display.
 
 ## Copyright
-©Jarif Ahmad 2021
+© Jarif Ahmad 2021
